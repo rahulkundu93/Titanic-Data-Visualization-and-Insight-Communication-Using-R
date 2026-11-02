@@ -1,0 +1,10 @@
+Metric,Value
+Passenger records,891.0
+Survived,342.0
+Did not survive,549.0
+Overall survival rate,0.3838383838383838
+Female survival rate,0.7420382165605095
+Male survival rate,0.18890814558058924
+First-class survival rate,0.6296296296296297
+Second-class survival rate,0.47282608695652173
+Third-class survival rate,0.24236252545824846
