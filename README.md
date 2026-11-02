@@ -64,4 +64,4 @@ Week 2 task: Data Visualization and Insight Communication using R.
 Organization: Yuva Learn Platform, Pune.
 
 ## Author
-[Your Full Name]
+Rahul Kundu
